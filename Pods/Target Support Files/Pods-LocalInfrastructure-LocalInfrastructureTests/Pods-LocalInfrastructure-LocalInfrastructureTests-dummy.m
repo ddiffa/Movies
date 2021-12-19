@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_LocalInfrastructure_LocalInfrastructureTests : NSObject
+@end
+@implementation PodsDummy_Pods_LocalInfrastructure_LocalInfrastructureTests
+@end
